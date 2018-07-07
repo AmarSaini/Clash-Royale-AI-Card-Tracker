@@ -27,3 +27,5 @@ If you still want to see the code for the following:
 9. TkInter GUI
 
 The code can be found here: [Clash_Royale_Helper.py](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker/blob/master/Clash%20Royale%20Helper/Clash%20Royale%20Helper/Clash_Royale_Helper.py)
+
+![AI Assistant](https://i.imgur.com/sskPau4.jpg)
