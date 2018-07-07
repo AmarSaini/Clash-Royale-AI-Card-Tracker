@@ -18,4 +18,4 @@ If you still want to see the code for the following:
 
 8. Both CNN's running together during real-time to predict opponent's card cycle + elixir. (This section also has a lot of code regarding the actual AI application).
 
-Code is under: Clash-Royale-AI-Card-Tracker/Clash Royale Helper/Clash Royale Helper/Clash_Royale_Helper.py
+The code is under: Clash-Royale-AI-Card-Tracker/Clash Royale Helper/Clash Royale Helper/Clash_Royale_Helper.py
