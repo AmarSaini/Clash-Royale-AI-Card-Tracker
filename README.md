@@ -28,4 +28,4 @@ If you still want to see the code for the following:
 
 The code can be found here: [Clash_Royale_Helper.py](https://github.com/AmarSaini/Clash-Royale-AI-Card-Tracker/blob/master/Clash%20Royale%20Helper/Clash%20Royale%20Helper/Clash_Royale_Helper.py)
 
-![AI Assistant](https://i.imgur.com/sskPau4.jpg)
+![AI Assistant](https://i.imgur.com/r4zqYmj.png)
